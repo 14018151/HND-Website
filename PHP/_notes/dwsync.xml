@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="create.php" server="10.7.64.136/public_html/" local="131606596600000000" remote="131606726060000000" Dst="1" />
+<file name="db_connect.php" server="10.7.64.136/public_html/" local="131607409460000000" remote="131613469410000000" Dst="1" />
+<file name="delete.php" server="10.7.64.136/public_html/" local="131606624200000000" remote="131606726060000000" Dst="1" />
+<file name="contact.php" server="10.7.64.136/public_html/" local="131606725660000000" remote="131606726060000000" Dst="1" />
+<file name="register.php" server="10.7.64.136/public_html/" local="131606634140000000" remote="131606726060000000" Dst="1" />
+<file name="users.php" server="10.7.64.136/public_html/" local="131607398220000000" remote="131607400380000000" Dst="1" />
+<file name="login.php" server="10.7.64.136/public_html/" local="131606627500000000" remote="131606726060000000" Dst="1" />
+<file name="contact.php" server="10.7.64.136" local="131606724900000000" remote="131606725380000000" Dst="1" />
+<file name="create.php" server="10.7.64.136" local="131606596600000000" remote="131606694580000000" Dst="1" />
+<file name="db_connect.php" server="10.7.64.136" local="131606622100000000" remote="131606623630000000" Dst="1" />
+<file name="delete.php" server="10.7.64.136" local="131606624200000000" remote="131606694580000000" Dst="1" />
+<file name="login.php" server="10.7.64.136" local="131606627500000000" remote="131606694570000000" Dst="1" />
+<file name="register.php" server="10.7.64.136" local="131606634140000000" remote="131606694580000000" Dst="1" />
+<file name="userLog.php" server="10.7.64.136" local="131606635420000000" remote="131606694570000000" Dst="1" />
+<file name="users.php" server="10.7.64.136" local="131606637040000000" remote="131606694530000000" Dst="1" />
+<file name="admin.php" server="10.7.64.136/public_html/" local="131613493720000000" remote="131613493750000000" Dst="1" />
+<file name="blog.php" server="10.7.64.136/public_html/" local="131613507960000000" remote="131613507970000000" Dst="1" />
+<file name="edit.php" server="10.7.64.136/public_html/" local="131606626640000000" remote="131606726060000000" Dst="1" />
+<file name="edit_profile.php" server="10.7.64.136/public_html/" local="131606731660000000" remote="131607400380000000" Dst="1" />
+<file name="logout.php" server="10.7.64.136/public_html/" local="131606627700000000" remote="131606726060000000" Dst="1" />
+<file name="profile.php" server="10.7.64.136/public_html/" local="131606728320000000" remote="131606728320000000" Dst="1" />
+<file name="userLog.php" server="10.7.64.136/public_html/" local="131607536240000000" remote="131613469410000000" Dst="1" />
+<file name="blog.php" server="10.7.64.136" local="131605023080000000" remote="131606694570000000" Dst="1" />
+<file name="admin.php" server="10.7.64.136" local="131605013940000000" remote="131606694570000000" Dst="1" />
+<file name="edit.php" server="10.7.64.136" local="131606626640000000" remote="131606694580000000" Dst="1" />
+<file name="edit_profile.php" server="10.7.64.136" local="131606629680000000" remote="131606694580000000" Dst="1" />
+<file name="logout.php" server="10.7.64.136" local="131606627700000000" remote="131606694580000000" Dst="1" />
+<file name="profile.php" server="10.7.64.136" local="131582524180000000" remote="131606694580000000" Dst="1" />
+<file name="clear_profile.php" server="10.7.64.136/public_html/" local="131605023340000000" remote="131606726060000000" Dst="1" />
+<file name="clear_profile.php" server="10.7.64.136" local="131605023340000000" remote="131606694580000000" Dst="1" />
+<file name="promote.php" server="10.7.64.136" local="131606628160000000" remote="131606694570000000" Dst="1" />
+<file name="suspend.php" server="10.7.64.136" local="131606634620000000" remote="131606694570000000" Dst="1" />
+<file name="article.php" server="10.7.64.136" local="131606596220000000" remote="131606694570000000" Dst="1" />
+<file name="article.php" server="10.7.64.136/public_html/" local="131606596220000000" remote="131606726060000000" Dst="1" />
+<file name="resume.php" server="10.7.64.136/public_html/" local="131606634320000000" remote="131606726060000000" Dst="1" />
+<file name="delcom.php" server="10.7.64.136" local="131606621980000000" remote="131606694570000000" Dst="1" />
+<file name="resume.php" server="10.7.64.136" local="131606634320000000" remote="131606694570000000" Dst="1" />
+<file name="suspend.php" server="10.7.64.136/public_html/" local="131606634620000000" remote="131606726060000000" Dst="1" />
+<file name="delcom.php" server="10.7.64.136/public_html/" local="131606621980000000" remote="131606726060000000" Dst="1" />
+<file name="promote.php" server="10.7.64.136/public_html/" local="131606628160000000" remote="131606726060000000" Dst="1" />
+</dwsync>
